@@ -1,5 +1,5 @@
 # Digital_Watermarking
-==========================
+# ==========================
 
 This code implements spatial domain digital watermarking using the Python Imaging Library(PIL) module.
 
