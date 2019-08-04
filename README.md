@@ -17,5 +17,5 @@ This new image is encrypted image containing the string entered by the user.
 7. For decrypting, reverse the process by converting ascii to real value and so on.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-### Saurav Chandra
-#### NIT Allahabad (MNNIT)
+Saurav Chandra
+NIT Allahabad (MNNIT)
