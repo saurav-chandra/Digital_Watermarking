@@ -16,5 +16,6 @@ This new image is encrypted image containing the string entered by the user.
 6. Repeat process 3-5 for the length of string, replacing that no. of pixels from the image.
 7. For decrypting, reverse the process by converting ascii to real value and so on.
 
+
 ### Saurav Chandra
 #### NIT Allahabad (MNNIT)
